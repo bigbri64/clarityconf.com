@@ -16,7 +16,7 @@
   tickets:        1
   discount:       10%
   logo_brochure:  true
-  logo_signage:   true
+  logo_signage:   false
   logo_preferred: false
   logo_stage:     false
   social:         2
